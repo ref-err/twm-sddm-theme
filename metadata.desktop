@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=The World Machine
+Description=The World Machine theme
+Author=referr
+Copyright=
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=https://ref-err.ru/
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=twm
+Theme-API=2.0
+QtVersion=6
