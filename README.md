@@ -22,6 +22,9 @@ sudo cp -r twm-sddm-theme /usr/share/sddm/themes
 Current=twm-sddm-theme
 ```
 
+## Bugs
+Currently, there is one known bug related to the session selection panel. Please report any bugs in the repository’s Issues tab.
+
 ## License
 This theme is licensed under [MIT license](LICENSE).
 
